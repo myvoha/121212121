@@ -1,5 +1,6 @@
 package webdriver_api;
 
+
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
@@ -10,7 +11,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-public class Topic_01_CheckEnvironment2 {
+public class Topic_01_CheckEnvironment {
 	WebDriver driver;
 
 	@BeforeClass
